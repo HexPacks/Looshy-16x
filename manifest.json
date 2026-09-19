@@ -4,14 +4,14 @@
     "name": "§bLooshy §8| §f1.21",
     "description": "§7• Converted and updated by §ehexer mc§7.\n• Download at: §bhttps://github.com/HexPacks",
     "uuid": "96928f48-2ac9-40d8-93e1-b98da113089a",
-    "version": [1,0,0],
+    "version": [1,1,0],
     "min_engine_version": [1,21,90]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "75576857-744c-4f33-a7fd-4bf58c094ea1",
-      "version": [1,0,0]
+      "version": [1,1,0]
     }
   ]
 }
